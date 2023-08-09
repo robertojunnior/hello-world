@@ -1,2 +1,3 @@
 # hello-world
-Exercício de GitHub - Cubos Academy &amp; iFood
+
+Exercício de Git e GitHub - Cubos Academy & iFood
